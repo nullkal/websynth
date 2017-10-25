@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="6 -14 32 32" style="enable-background:new 6 -14 32 32;" xml:space="preserve">
+<style type="text/css">
+	.knobMeterBg{clip-path:url(#SVGID_2_);fill:rgba(0,0,0,0.2);}
+	.knobMeterGauge{clip-path:url(#SVGID_2_);fill:rgba(0,216,0,0.8);}
+	.knobCircle{fill:#E6E6E6;stroke:#808080;stroke-width:0.5;stroke-miterlimit:10;}
+	.knobMeterFrame{opacity:0.3;}
+	.knobDot{fill:#666666;}
+</style>
+<g>
+	<defs>
+		<path id="SVGID_1_" d="M13.3,10.7C11.1,8.4,9.8,5.4,9.8,2c0-6.8,5.5-12.2,12.2-12.2S34.2-4.8,34.2,2c0,3.4-1.4,6.4-3.6,8.7
+			l2.7,2.7C36.2,10.4,38,6.4,38,2c0-8.8-7.2-16-16-16S6-6.8,6,2c0,4.4,1.8,8.4,4.7,11.3L13.3,10.7z"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<rect x="6" y="-14" class="knobMeterBg" width="32" height="32"/>
+	<path class="knobMeterGauge"/>
+</g>
+<g class="knobMeterFrame">
+	<path d="M22-13.5c8.5,0,15.5,7,15.5,15.5c0,4-1.5,7.7-4.2,10.6l-1.9-1.9c2.2-2.4,3.4-5.4,3.4-8.7c0-7-5.7-12.8-12.8-12.8
+		S9.2-5,9.2,2c0,3.2,1.2,6.3,3.4,8.7l-1.9,1.9C8,9.7,6.5,6,6.5,2C6.5-6.5,13.5-13.5,22-13.5 M22-14C13.2-14,6-6.8,6,2
+		c0,4.4,1.8,8.4,4.7,11.3l2.7-2.7C11.1,8.4,9.8,5.4,9.8,2c0-6.8,5.5-12.2,12.2-12.2S34.2-4.8,34.2,2c0,3.4-1.4,6.4-3.6,8.7l2.7,2.7
+		C36.2,10.4,38,6.4,38,2C38-6.8,30.8-14,22-14L22-14z"/>
+</g>
+<g class="knob">
+	<circle class="knobCircle" cx="22" cy="2" r="10.9"/>
+	<circle class="knobDot" cx="22" cy="-6.3" r="1.4"/> 
+</g>
+</svg>

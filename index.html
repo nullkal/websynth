@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
+    <title>Web Synthesizer</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/style.css">
+    <script src="js/app.js" defer></script>
+  </head>
+
+  <body>
+    <div id="container">
+      <div id="editor"></div>
+      <div id="command_bar">
+        <button type="button" id="addLFONode">
+          <i class="fa fa-bullseye"></i> LFO
+        </button>
+        <button type="button" id="addOperatorNode">
+          <i class="fa fa-sliders"></i> Operator
+        </button>
+        <button type="button" id="addWaveMixNode">
+          <i class="fa fa-plus-circle"></i> Wave Mix
+        </button>
+        <button type="button" id="addSpeakerNode">
+          <i class="fa fa-volume-up"></i> Speaker
+        </button>
+      </div>
+      <div id="keyboard"></div>
+    </div>
+  </body>
+</html>

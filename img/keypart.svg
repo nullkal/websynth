@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="-255 205 128 72" style="enable-background:new -255 205 128 72;" xml:space="preserve">
+<style type="text/css">
+	.whiteKey {
+		fill: #fff;
+		stroke: #000;
+		stroke-miterlimit: 10;
+	}
+	.key--pushed {
+		fill: #f00;
+		stroke: #000;
+	}
+</style>
+<rect x="-255" y="205" class="whiteKey scale_0" width="18.3" height="72"/>
+<rect x="-236.7" y="205" class="whiteKey scale_2" width="18.3" height="72"/>
+<rect x="-218.4" y="205" class="whiteKey scale_4" width="18.3" height="72"/>
+<rect x="-200.1" y="205" class="whiteKey scale_5" width="18.3" height="72"/>
+<rect x="-181.9" y="205" class="whiteKey scale_7" width="18.3" height="72"/>
+<rect x="-163.6" y="205" class="whiteKey scale_9" width="18.3" height="72"/>
+<rect x="-145.3" y="205" class="whiteKey scale_11" width="18.3" height="72"/>
+<rect x="-242.8" y="205" class="scale_1" width="12.2" height="49.5"/>
+<rect x="-224.5" y="205" class="scale_3" width="12.2" height="49.5"/>
+<rect x="-188" y="205" class="scale_6" width="12.2" height="49.5"/>
+<rect x="-169.7" y="205" class="scale_8" width="12.2" height="49.5"/>
+<rect x="-151.4" y="205" class="scale_10" width="12.2" height="49.5"/>
+</svg>
